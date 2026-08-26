@@ -2680,3 +2680,4 @@ Model persistence
 Hybrid AI architectures
 
 For a production-grade chatbot, the next major step would be to replace or complement TF-IDF with sentence embeddings or transformer-based models, expand the training dataset, introduce entity extraction and conversation memory, and connect the response layer to a verified college information database or API.
+### Kaustav Mani Deka 
