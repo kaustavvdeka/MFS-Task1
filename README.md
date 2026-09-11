@@ -2616,11 +2616,7 @@ Q20. What is the main limitation of TF-IDF?
 
 TF-IDF captures lexical/statistical information but does not deeply understand semantic meaning.
 
-41. Conclusion
 
-This project demonstrates a complete progression from a simple rule-based chatbot to an NLP-enhanced intent classification system.
-
-The first system establishes the fundamentals:
 
 Knowledge Base
 → preprocessing
